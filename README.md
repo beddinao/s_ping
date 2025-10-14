@@ -74,7 +74,7 @@ time: 1230.085 ms
 
 ---
 
-## Requirement
+## Requirements
 
 - Linux
 - Root privileges (required for sending raw ICMP packets)
